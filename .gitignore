@@ -1,0 +1,7 @@
+#ignore all .Identifier files
+
+*.Identifier
+
+#exclude the large data file
+
+Data-Large/
